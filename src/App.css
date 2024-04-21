@@ -1,0 +1,9 @@
+#root{
+  height:100dvh;
+  width:100%;
+}
+
+.App__myCanvas{
+  height:100%;
+  width: 100%;
+}
